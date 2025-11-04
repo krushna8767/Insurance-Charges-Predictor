@@ -1,5 +1,3 @@
-# Insurance-Charges-Predictor
-
 # 🩺 Insurance Cost Prediction using Linear Regression and Streamlit
 
 ### 🔗 **Live Demo:**  
